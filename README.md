@@ -20,7 +20,7 @@ In order to run this proyect, the minimun software requeriments are:
   - With maven:
   <pre>mvn spring-boot:run</pre>
   - As standalone java app:
-  <pre>java -jar target/spring-websocket-0.0.1-SNAPSHOT.jar</pre>
+  <pre>java -jar target/spring-webapp-0.0.1-SNAPSHOT.jar</pre>
 - Start navigating:</br>
   In a web browser now you can go to next url:
   <pre>http://localhost:8080</pre>
