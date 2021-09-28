@@ -24,7 +24,7 @@ In order to run this proyect, the minimun software requeriments are:
 - Start navigating:</br>
   In a web browser now you can go to next url:
   <pre>http://localhost:8080</pre>
-  - Use <strong>Connect</strong> button to start <i>socket session</i> and type a <strong>Stock ID</strong>, after that press <strong>GO</strong> button <u>to see what happens</u>.
+  - Type a <strong>Stock ID</strong>, after that press <strong>GO</strong> button <u>to see what happens</u>.
 
 ### Extra features:
 - Unit Test:
